@@ -1,0 +1,19 @@
+5. Using Sandbox to Prototype Solidity Logic for Stacks
+
+Even if contracts ultimately run in Clarity, many teams:
+
+Prototype logic in Solidity
+
+Validate economic and access-control behavior
+
+Translate stable patterns into Clarity
+
+With Sandbox environments, developers can:
+
+Simulate Solidity contracts
+
+Test edge cases (re-entrancy, permissions)
+
+Validate business logic before rewriting for Stacks
+
+This reduces errors and accelerates migration to Bitcoin-secured smart contracts.
