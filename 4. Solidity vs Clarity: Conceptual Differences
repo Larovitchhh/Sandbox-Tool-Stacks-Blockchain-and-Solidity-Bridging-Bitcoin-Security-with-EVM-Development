@@ -1,0 +1,11 @@
+4. Solidity vs Clarity: Conceptual Differences
+
+Solidity and Clarity differ fundamentally, but the logic patterns are familiar:
+
+Concept	Solidity (EVM)	Clarity (Stacks)
+Execution	Turing-complete	Decidable
+Reverts	require, revert	Explicit error handling
+State	Mutable	Explicit state transitions
+Transparency	Runtime evaluation	Readable on-chain logic
+
+Sandbox tools help Solidity developers map known patterns (ownership, access control, escrow, NFTs) into Stacks-compatible logic.
