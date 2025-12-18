@@ -1,0 +1,19 @@
+6. Cross-Chain and EVM Compatibility on Stacks
+
+Stacks increasingly interacts with EVM chains via:
+
+Bridges
+
+Wrapped assets
+
+Bitcoin-backed liquidity (sBTC)
+
+Solidity contracts deployed on EVM chains can:
+
+Interact with Stacks-based assets
+
+Trigger Stacks contract calls indirectly
+
+Use Bitcoin finality as a settlement layer
+
+Sandbox testing becomes essential to simulate cross-chain message flows and failure scenarios safely.
