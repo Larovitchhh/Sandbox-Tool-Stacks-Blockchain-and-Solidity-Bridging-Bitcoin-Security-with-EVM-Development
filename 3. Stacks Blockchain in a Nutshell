@@ -1,0 +1,13 @@
+3. Stacks Blockchain in a Nutshell
+
+Stacks is a Layer 2 blockchain anchored to Bitcoin via the Proof of Transfer (PoX) consensus mechanism. Key characteristics:
+
+Smart contracts settle on Bitcoin
+
+No re-org risk beyond Bitcoin finality
+
+Native BTC integration (and upcoming sBTC)
+
+Focus on security, transparency, and predictability
+
+While Clarity is the native language, Stacks increasingly interacts with EVM-based ecosystems, making Solidity knowledge more relevant than ever.
