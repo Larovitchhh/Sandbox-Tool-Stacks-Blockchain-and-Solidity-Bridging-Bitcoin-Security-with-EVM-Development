@@ -1,0 +1,29 @@
+7. Developer Workflow: Sandbox → Testnet → Mainnet
+
+A recommended workflow for Solidity-minded developers entering Stacks:
+
+Sandbox
+
+Test logic
+
+Break things safely
+
+Observe failure modes
+
+Testnet
+
+Deploy translated contracts
+
+Test PoX and transaction ordering
+
+Validate fees and execution
+
+Mainnet
+
+Deploy with confidence
+
+Leverage Bitcoin security
+
+Minimize costly mistakes
+
+Skipping Sandbox almost always results in paid failures on mainnet—something Stacks developers quickly learn to avoid.
