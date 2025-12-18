@@ -1,0 +1,13 @@
+
+
+A Sandbox tool is a controlled execution environment that allows developers to:
+
+Test smart contract logic safely
+
+Simulate transactions and failures
+
+Inspect execution results without paying real fees
+
+Iterate quickly without risking mainnet funds
+
+In the Stacks ecosystem, the Sandbox (such as the Hiro Explorer Sandbox) enables developers to deploy and test contracts locally or in a simulated chain environment before pushing to testnet or mainnet.
